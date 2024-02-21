@@ -30,7 +30,7 @@ main{background-color: #277fae; grid-area: main;}
 .box2{background: #2c3050; grid-area: box2;}
 .box3{background: #65ad44; grid-area: box3;}
 
-footer{background: #16a060; grid-area: footer;}}
+footer{background: #16a060; grid-area: footer;}
 
 @media only screen and (max-width :640px){
     .container{
